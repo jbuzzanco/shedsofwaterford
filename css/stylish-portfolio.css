@@ -155,7 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/garage-2.jpg) no-repeat center center scroll;
+    background: url(../img/full-page-shed.jpg) no-repeat center center scroll;
     background-position: top-left;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -168,7 +168,7 @@ hr.small {
 
 #title {
     color: white;
-        
+
 }
 
 #subtitle {
