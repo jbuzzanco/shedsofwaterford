@@ -290,40 +290,11 @@ footer {
   right: 5px;
 }
 
+/* Start Form to send text message*/
+
 #contact{
    padding:10px 0 10px;
  }
-
- .contact-text{
-   margin:45px auto;
- }
-
- .mail-message-area{
-   width:100%;
-   padding:0 15px;
- }
-
- .mail-message{
-   width: 100%;
-   background:rgba(255,255,255, 0.8) !important;
-   -webkit-transition: all 0.7s;
-   -moz-transition: all 0.7s;
-   transition: all 0.7s;
-   margin:0 auto;
-   border-radius: 0;
- }
-
- .not-visible-message{
-   height:0px;
-   opacity: 0;
- }
-
- .visible-message{
-   height:auto;
-   opacity: 1;
-   margin:25px auto 0;
- }
-
 /* Input Styles */
 
  .form{
@@ -416,3 +387,5 @@ input {
    position: relative;
    z-index: 9999;
 }
+
+/* End of Form to send text message*/
